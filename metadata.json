@@ -1,0 +1,6 @@
+{
+  "name": "Razeforeal",
+  "description": "Personal portfolio for Raze, a video editor and graphics designer featuring a liquid glass morphism aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
